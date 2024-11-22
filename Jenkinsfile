@@ -23,5 +23,14 @@ pipeline {
                 sh 'python train_and_log.py'
             }
         }
+
+        stage('Deploy Model') {
+            steps {
+                sh '''
+                mlflow models serve -m "mlruns/0/0e556207508a41eaa3d0c52492c1a3f0/artifacts/random_forest_model" \
+                                    --no-conda -h 0.0.0.0 -p 1234
+                '''
+                }
+        }
     }
 }
