@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/plee/Documents/mlflow-jenkins-tutorial/mlruns/255733014185649302/9ee7d4aa31d145819adfbb8f02da84cd/artifacts
+end_time: 1732286860468
+entry_point_name: ''
+experiment_id: '255733014185649302'
+lifecycle_stage: active
+run_id: 9ee7d4aa31d145819adfbb8f02da84cd
+run_name: awesome-swan-451
+run_uuid: 9ee7d4aa31d145819adfbb8f02da84cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732286859563
+status: 3
+tags: []
+user_id: plee

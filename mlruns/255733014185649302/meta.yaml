@@ -1,0 +1,6 @@
+artifact_location: file:///Users/plee/Documents/mlflow-jenkins-tutorial/mlruns/255733014185649302
+creation_time: 1732286859484
+experiment_id: '255733014185649302'
+last_update_time: 1732286859484
+lifecycle_stage: active
+name: mlflow_jenkins_demo

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732287529003
+current_stage: None
+description: ''
+last_updated_timestamp: 1732287529003
+name: rf1
+run_id: 9ee7d4aa31d145819adfbb8f02da84cd
+run_link: ''
+source: file:///Users/plee/Documents/mlflow-jenkins-tutorial/mlruns/255733014185649302/9ee7d4aa31d145819adfbb8f02da84cd/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///Users/plee/Documents/mlflow-jenkins-tutorial/mlruns/255733014185649302/9ee7d4aa31d145819adfbb8f02da84cd/artifacts/random_forest_model
+user_id: null
+version: 2
